@@ -67,7 +67,6 @@ A web-based task management application built with React.js and Tailwind CSS for
 - **Add Task**: Use the input field on the home page to add new tasks.
 - **Edit Task**: Click the edit icon next to a task to open the edit modal.
 - **Delete Task**: Click the delete icon next to a task to remove it.
-- **View Task Details**: Click on a task to view its detailed information.
 - **Search Tasks**: Use the search bar to filter tasks by name or status.
 - **Navigate**: Use the header to navigate between Home, About, and Contact pages.
 
