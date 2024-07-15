@@ -44,7 +44,7 @@ A web-based task management application built with React.js and Tailwind CSS for
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/your-username/task-management-system.git
+    git clone https://github.com/MasterWithAhmad/task_management_tool.git
     ```
 
 2. **Navigate to the project directory**:
