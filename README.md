@@ -59,7 +59,7 @@ A web-based task management application built with React.js and Tailwind CSS for
 
 4. **Run the application**:
     ```sh
-    npm start
+    npm run dev
     ```
 
 ## Usage
